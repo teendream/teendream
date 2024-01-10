@@ -1,5 +1,5 @@
 ### Hi there, I'm Aziz 👋
- I'm iOS developer
+ I'm an iOS developer
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=teendream&show_icons=true&theme=radical" />
 
